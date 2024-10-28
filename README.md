@@ -23,3 +23,13 @@ To build and manage a simple AWS network infrastructure using Infrastructure as 
     * **Declarative Configuration:** Defining the desired state of the infrastructure in code, allowing for version control and reproducibility.
     * **Idempotent Deployments:** Ensuring that infrastructure changes are applied consistently, regardless of the current state.
     * **Testing and Validation:** Implementing automated tests to validate the correctness and security of the infrastructure.
+
+
+ **Potential Learning Outcomes:**
+
+* Understanding AWS core networking concepts (VPCs, subnets, security groups, internet gateways)
+* Mastering an IaC tool (CloudFormation)
+* Integrating IaC into a CI/CD pipeline
+* Implementing security best practices in AWS
+* Leveraging AWS monitoring and logging tools
+
