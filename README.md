@@ -1,2 +1,2 @@
 # IAC-lab1-FridayHitt
-FridayHitt Mini Network
+## AWS Mini-Network Project: A DevOps and Infrastructure as Code
